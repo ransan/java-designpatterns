@@ -1,4 +1,4 @@
-package builder_pattern;
+package src.builder_pattern;
 
 public class BuilderPatternDriver {
 

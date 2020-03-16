@@ -1,4 +1,4 @@
-package prototype_pattern;
+package src.prototype_pattern;
 
 public class PrototypePatternDriver {
 
